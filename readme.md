@@ -6,3 +6,6 @@
 
 ### Länktips från dagen:
 * [HTML Validator](https://validator.w3.org/)
+
+### Övning som givits ut:
+* [Receptövningen](https://github.com/Lexicon-Frontend-2024/exercise-html-css-recipe)
